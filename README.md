@@ -40,7 +40,6 @@ That's about it.
 
 Known issues
 ---
-- Stopped working after Craft 2.3.2624. Haven't had time to fix this yet.
 - Classes do not get added, but replace any existing class attribute. 
 
 
